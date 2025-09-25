@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nidhisaa/RefreshJS.git"
+    "url": "git+https://github.com/jayalakshmigovindan/RefreshJS.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nidhisaa/RefreshJS/issues"
+    "url": "https://github.com/jayalakshmigovindan/RefreshJS/issues"
   },
-  "homepage": "https://github.com/Nidhisaa/RefreshJS#readme",
+  "homepage": "https://github.com/jayalakshmigovindan/RefreshJS#readme",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "dotenv": "^17.2.2",
